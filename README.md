@@ -91,25 +91,25 @@ Media files are stored securely with Cloudinary.
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page screenshot](Images/Screenshot_6.png)
+![Home Page screenshot](images/Screenshot_6.png)
 
 ### Album View
-![Album View screenshot](Images/Screenshot_7.png)
+![Album View screenshot](images/Screenshot_7.png)
 
 ### Admin Panel
-![Admin Panel screenshot](Images/Screenshot_1.png)
+![Admin Panel screenshot](images/Screenshot_1.png)
 
 ### Add Song
-![Add Song screenshot](Images/Screenshot_2.png)
+![Add Song screenshot](images/Screenshot_2.png)
 
 ### List Song
-![List Song screenshot](Images/Screenshot_3.png)
+![List Song screenshot](images/Screenshot_3.png)
 
 ### Add Album
-![Add Album screenshot](Images/Screenshot_4.png)
+![Add Album screenshot](images/Screenshot_4.png)
 
 ### List Album
-![List Album screenshot](Images/Screenshot_5.png)
+![List Album screenshot](images/Screenshot_5.png)
 
 ---
 
